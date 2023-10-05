@@ -10,3 +10,7 @@ path = "src/easy/217/main.rs"
 [[bin]]
 name = "242"
 path = "src/easy/242/main.rs"
+
+[[bin]]
+name = "1"
+path = "src/easy/1/main.rs"
