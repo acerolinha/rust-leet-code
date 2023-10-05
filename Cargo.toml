@@ -6,3 +6,7 @@ edition = "2021"
 [[bin]]
 name = "217"
 path = "src/easy/217/main.rs"
+
+[[bin]]
+name = "242"
+path = "src/easy/242/main.rs"
