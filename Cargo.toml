@@ -4,29 +4,33 @@ version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-name = "217"
-path = "src/easy/217/main.rs"
-
-[[bin]]
-name = "242"
-path = "src/easy/242/main.rs"
-
-[[bin]]
 name = "1"
 path = "src/easy/1/main.rs"
+
+[[bin]]
+name = "36"
+path = "src/medium/36/main.rs"
 
 [[bin]]
 name = "49"
 path = "src/medium/49/main.rs"
 
 [[bin]]
-name = "347"
-path = "src/medium/347/main.rs"
+name = "128"
+path = "src/medium/128/main.rs"
+
+[[bin]]
+name = "217"
+path = "src/easy/217/main.rs"
 
 [[bin]]
 name = "238"
 path = "src/medium/238/main.rs"
 
 [[bin]]
-name = "36"
-path = "src/medium/36/main.rs"
+name = "242"
+path = "src/easy/242/main.rs"
+
+[[bin]]
+name = "347"
+path = "src/medium/347/main.rs"
