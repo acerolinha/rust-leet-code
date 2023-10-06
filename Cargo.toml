@@ -26,3 +26,7 @@ path = "src/medium/347/main.rs"
 [[bin]]
 name = "238"
 path = "src/medium/238/main.rs"
+
+[[bin]]
+name = "36"
+path = "src/medium/36/main.rs"
