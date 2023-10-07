@@ -1,0 +1,341 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable '1'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=1",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "1",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable '1'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=1",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "1",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable '36'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=36",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "36",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable '36'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=36",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "36",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable '49'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=49",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "49",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable '49'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=49",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "49",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable '88'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=88",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "88",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable '88'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=88",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "88",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable '128'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=128",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "128",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable '128'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=128",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "128",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable '217'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=217",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "217",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable '217'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=217",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "217",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable '238'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=238",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "238",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable '238'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=238",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "238",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable '242'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=242",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "242",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable '242'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=242",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "242",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable '347'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=347",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "347",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable '347'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=347",
+                    "--package=rust-leet-code"
+                ],
+                "filter": {
+                    "name": "347",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
