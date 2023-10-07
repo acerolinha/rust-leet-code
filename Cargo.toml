@@ -16,6 +16,10 @@ name = "49"
 path = "src/medium/49/main.rs"
 
 [[bin]]
+name = "88"
+path = "src/easy/88/main.rs"
+
+[[bin]]
 name = "128"
 path = "src/medium/128/main.rs"
 
