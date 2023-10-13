@@ -12,6 +12,10 @@ name = "13"
 path = "src/easy/13/main.rs"
 
 [[bin]]
+name = "14"
+path = "src/easy/14/main.rs"
+
+[[bin]]
 name = "26"
 path = "src/easy/26/main.rs"
 
