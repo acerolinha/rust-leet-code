@@ -72,5 +72,9 @@ name = "242"
 path = "src/easy/242/main.rs"
 
 [[bin]]
+name = "392"
+path = "src/easy/392/main.rs"
+
+[[bin]]
 name = "347"
 path = "src/medium/347/main.rs"
